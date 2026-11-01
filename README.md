@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Expiry Backend
 
 ## Run
@@ -26,3 +27,7 @@ npm start        # http://localhost:3001
 - **Functional:** `utils/functional.js`
 - **OOP:** `models/FoodItem.js`
 - **Imperative:** `routes.js`, `server.js`
+=======
+# Food-Expiry-Tracker-and-Waste-Prevention-System
+Rule-based food expiry tracker that tells households what to eat first to prevent waste. Supports UN SDG 12.
+>>>>>>> 8944c55cb004aad40de13acf57092f907164854a
