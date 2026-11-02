@@ -2,7 +2,7 @@
 
 This is our project for CS121: Programming Languages. It is a web app that keeps track of the food you have at home and tells you which ones to eat first before they expire.
 
-It supports UN SDG 12 (Responsible Consumption and Production), mainly target 12.3 which is about cutting food waste.
+It supports UN SDG 12 (Responsible Consumption and Production)
 
 ## What it does
 
@@ -68,7 +68,6 @@ npm run dev
 
 Then open http://localhost:5173 in your browser. Keep the back end running or the page will not load any data.
 
-Note: newer versions of npm block install scripts by default. If `npm install` says some scripts were blocked, run `npm install-scripts approve better-sqlite3` in the backend folder or `npm install-scripts approve esbuild` in the frontend folder, then run `npm install` again.
 
 ## API
 
