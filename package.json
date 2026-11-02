@@ -1,0 +1,16 @@
+{
+  "name": "food-expiry-backend",
+  "version": "1.0.0",
+  "description": "Food Expiration and Waste Prevention System - API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "tau-prolog": "^0.3.4"
+  }
+}
