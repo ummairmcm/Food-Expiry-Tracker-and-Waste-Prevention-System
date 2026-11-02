@@ -56,7 +56,7 @@ npm run seed
 npm start
 ```
 
-The server runs on http://localhost:3001. `npm run seed` is optional, it just adds sample food.
+The server runs on http://localhost:3001. `npm run seed` is optional and inserts demonstration food items. Warning: running this command deletes existing food items and waste records before inserting the sample data.
 
 Terminal 2 (front end):
 
